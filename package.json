@@ -1,0 +1,21 @@
+{
+  "name": "crawl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hn.js",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "fs-extra": "^8.1.0",
+    "ndb2": "^1.0.0",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
